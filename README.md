@@ -1,1 +1,1 @@
-# Machine-Learning
+#### Implementing RNN (LSTM) model for stock prediction.
